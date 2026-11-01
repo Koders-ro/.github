@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./koders%20%28Logo%20Design%29_Primary%20Logo%20%28Light%20Variation%29.png" alt="Koders" width="300" />
+  <img src="https://raw.githubusercontent.com/Koders-ro/.github/refs/heads/main/koders%20(Logo%20Design)_Primary%20Logo%20(Light%20Variation).png" alt="Koders" width="300" />
 
   <p>
     <strong>Software development studio · Bucharest, Romania</strong>
